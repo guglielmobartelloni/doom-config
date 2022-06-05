@@ -1,6 +1,5 @@
 #+TITLE:   Doom Config
 #+DATE:    Giugno 5, 2022
-#+SINCE:   <replace with next tagged release version>
 #+STARTUP: inlineimages nofold
 #+PROPERTY: header-args :tangle config.el
 
