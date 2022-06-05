@@ -12,7 +12,7 @@
       user-mail-address "bartelloni.guglielmo@gmail.com")
 
 
-(setq org-directory "~/org/")
+(setq org-directory "~/Nextcloud/Documents/org")
 (setq display-line-numbers-type t)
 (latex-preview-pane-enable)
 (use-package laas
