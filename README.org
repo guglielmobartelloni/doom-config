@@ -38,6 +38,10 @@
                     "qq" (lambda () (interactive) (laas-wrap-previous-object "sqrt"))))
 
 #+end_src
+
+#+RESULTS:
+| laas-mode | reftex-mode | evil-tex-mode | adaptive-wrap-prefix-mode | LaTeX-preview-setup | +evil-embrace-latex-mode-hook-h | embrace-LaTeX-mode-hook |
+
 *** Look and feel
 
 #+begin_src emacs-lisp
@@ -51,6 +55,6 @@
 *** Directories
 #+begin_src emacs-lisp
 (setq org-directory "~/Nextcloud/Documents/org")
-(setq org-roam-dailies-direcotry "journal/")
+(setq org-roam-dailies-directory "journal/")
 
 #+end_src

@@ -4,7 +4,6 @@
       user-mail-address "bartelloni.guglielmo@gmail.com")
 
 
-(setq org-directory "~/org/")
 (setq display-line-numbers-type t)
 (latex-preview-pane-enable)
 (use-package laas
@@ -35,3 +34,6 @@
 (setq doom-theme 'doom-one-light)
 
 (add-to-list 'initial-frame-alist '(fullscreen . maximized))
+
+(setq org-directory "~/Nextcloud/Documents/org")
+(setq org-roam-dailies-directory "journal/")
